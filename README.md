@@ -1,16 +1,21 @@
-### Hi there 👋
+## I'm a beginner QA Engineer
 
-<!--
-**kiwilizz/kiwilizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My CV
+[Link to my CV]
 
-Here are some ideas to get you started:
+### Language and Tools
+![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
+![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
+![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
+![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/postgres-090909?style=for-the-badge&logo=postgresql&logoColor=white)
+![Header](https://img.shields.io/badge/YouTrack-090909?style=for-the-badge&logo=youtrack&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Cygwin-090909?style=for-the-badge&logo=Cygwin&logoColor=8cc4d7)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Testing Documentation
+
+- [Checklists]
+- [Test-Cases]
+- [Bug-Reports]
