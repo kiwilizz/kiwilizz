@@ -19,5 +19,5 @@
 ### Testing Documentation
 
 - [Checklists]
-- [Test-Cases](https://github.com/kiwilizz/Test-Cases)
+- [Test-Cases]
 - [Bug-Reports]
